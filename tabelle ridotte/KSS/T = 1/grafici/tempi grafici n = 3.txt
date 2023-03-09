@@ -1,0 +1,2 @@
+Tempo di esecuzione con M=10000: 3.890625
+Step di convergenza con M=10000: 4

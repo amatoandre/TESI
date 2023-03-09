@@ -1,0 +1,90 @@
+Numero m di step per avere convergenza con M = 1 :
+
+Tempo di esecuzione con r0=5 e rho=0.6: 5.24375
+Tempo di esecuzione con r0=5 e rho=0.7: 4.3234375
+Tempo di esecuzione con r0=5 e rho=0.8: 6.2953125
+Tempo di esecuzione con r0=5 e rho=0.9: 8.071875
+Tempo di esecuzione con r0=10 e rho=0.6: 7.4796875
+Tempo di esecuzione con r0=10 e rho=0.7: 4.790625
+Tempo di esecuzione con r0=10 e rho=0.8: 3.0328125
+Tempo di esecuzione con r0=10 e rho=0.9: 3.3171875
+
+   rho \ r0    5 (min)    5 (max)     5 (medio)    10 (min)    10 (max)     10 (medio)
+-----------  ---------  ---------  ------------  ----------  ----------  -------------
+        0.6        400       1650           780         440        1740           1117
+        0.7        220       1460           643         400         980            712
+        0.8        140       3530           937         210         940            453
+        0.9         60       6080          1201         180        1110            493
+
+Numero m di step per avere convergenza con M = 10 :
+
+Tempo di esecuzione con r0=5 e rho=0.6: 0.7765625
+Tempo di esecuzione con r0=5 e rho=0.7: 0.5328125
+Tempo di esecuzione con r0=5 e rho=0.8: 0.603125
+Tempo di esecuzione con r0=5 e rho=0.9: 0.6765625
+Tempo di esecuzione con r0=10 e rho=0.6: 2.078125
+Tempo di esecuzione con r0=10 e rho=0.7: 0.9390625
+Tempo di esecuzione con r0=10 e rho=0.8: 0.9421875
+Tempo di esecuzione con r0=10 e rho=0.9: 0.7125
+
+   rho \ r0    5 (min)    5 (max)     5 (medio)    10 (min)    10 (max)     10 (medio)
+-----------  ---------  ---------  ------------  ----------  ----------  -------------
+        0.6         40        160            99         140         430            263
+        0.7         30        120            68          30         250            119
+        0.8         20        250            77          40         190            118
+        0.9         40        170            86          20         310             91
+
+Numero m di step per avere convergenza con M = 100 :
+
+Tempo di esecuzione con r0=5 e rho=0.6: 0.4078125
+Tempo di esecuzione con r0=5 e rho=0.7: 0.2546875
+Tempo di esecuzione con r0=5 e rho=0.8: 0.35
+Tempo di esecuzione con r0=5 e rho=0.9: 0.2640625
+Tempo di esecuzione con r0=10 e rho=0.6: 0.3875
+Tempo di esecuzione con r0=10 e rho=0.7: 0.29375
+Tempo di esecuzione con r0=10 e rho=0.8: 0.278125
+Tempo di esecuzione con r0=10 e rho=0.9: 0.2921875
+
+   rho \ r0    5 (min)    5 (max)     5 (medio)    10 (min)    10 (max)     10 (medio)
+-----------  ---------  ---------  ------------  ----------  ----------  -------------
+        0.6         10         70            29          10          50             28
+        0.7         10         40            18          10          50             21
+        0.8         10         60            25          10          40             20
+        0.9         10         30            19          10          40             21
+
+Numero m di step per avere convergenza con M = 1000 :
+
+Tempo di esecuzione con r0=5 e rho=0.6: 0.165625
+Tempo di esecuzione con r0=5 e rho=0.7: 0.2578125
+Tempo di esecuzione con r0=5 e rho=0.8: 0.2453125
+Tempo di esecuzione con r0=5 e rho=0.9: 0.2140625
+Tempo di esecuzione con r0=10 e rho=0.6: 0.4578125
+Tempo di esecuzione con r0=10 e rho=0.7: 0.4265625
+Tempo di esecuzione con r0=10 e rho=0.8: 0.434375
+Tempo di esecuzione con r0=10 e rho=0.9: 0.403125
+
+   rho \ r0    5 (min)    5 (max)     5 (medio)    10 (min)    10 (max)     10 (medio)
+-----------  ---------  ---------  ------------  ----------  ----------  -------------
+        0.6          1          2           1.5           3           6            4.1
+        0.7          1          4           2.3           3           6            3.8
+        0.8          1          3           2.2           3           8            3.9
+        0.9          1          3           1.9           3           7            3.6
+
+Numero m di step per avere convergenza con M = 10000 :
+
+Tempo di esecuzione con r0=5 e rho=0.6: 1.6265625
+Tempo di esecuzione con r0=5 e rho=0.7: 1.496875
+Tempo di esecuzione con r0=5 e rho=0.8: 1.496875
+Tempo di esecuzione con r0=5 e rho=0.9: 1.378125
+Tempo di esecuzione con r0=10 e rho=0.6: 3.7953125
+Tempo di esecuzione con r0=10 e rho=0.7: 3.7703125
+Tempo di esecuzione con r0=10 e rho=0.8: 3.759375
+Tempo di esecuzione con r0=10 e rho=0.9: 3.5125
+
+   rho \ r0    5 (min)    5 (max)     5 (medio)    10 (min)    10 (max)     10 (medio)
+-----------  ---------  ---------  ------------  ----------  ----------  -------------
+        0.6          1          2           1.3           3           3            3
+        0.7          1          2           1.2           3           3            3
+        0.8          1          2           1.2           3           3            3
+        0.9          1          2           1.1           2           3            2.8
+
